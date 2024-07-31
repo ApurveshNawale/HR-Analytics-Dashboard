@@ -1,5 +1,7 @@
 # HR-Analytics-Dashboard
 
+This HR Analytics Dashboard is created using Tableau, a powerful data visualization and business intelligence tool. 
+
 
 ## Project Overview
 
