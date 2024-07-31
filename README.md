@@ -9,7 +9,8 @@ This project presents a comprehensive HR Analytics Dashboard that provides insig
 
 ## Dashboard Access
 
-You can access the live HR Analytics Dashboard here:[Dashboard](https://public.tableau.com/app/profile/apurvesh.nawale/viz/Book2_17120451436460/HRAnalysticsDashboard)
+You can access the live HR Analytics Dashboard here:
+- [Dashboard](https://public.tableau.com/app/profile/apurvesh.nawale/viz/Book2_17120451436460/HRAnalysticsDashboard)
 
 
 ## Dataset
